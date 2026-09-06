@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0013-roman-to-integer/) | Easy |
+| [0115-distinct-subsequences](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0115-distinct-subsequences/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0115-distinct-subsequences/) | Hard |
 <!---LeetCode Topics End-->
