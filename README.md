@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0014-longest-common-prefix/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0014-longest-common-prefix/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Linked List
@@ -43,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
