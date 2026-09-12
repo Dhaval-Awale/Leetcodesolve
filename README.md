@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0013-roman-to-integer/) | Easy |
+| [1952-three-divisors](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/1952-three-divisors/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -58,4 +59,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0020-valid-parentheses/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/1952-three-divisors/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/1952-three-divisors/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/1952-three-divisors/) | Easy |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
