@@ -1,34 +1,24 @@
+from typing import List
+
+
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
-        nums.sort()
-        count = defaultdict(int)
-        for num in nums:
-            count[num] += 1
 
-        res = []
+        output = set()
+        event_horizon = set()
+
         for i in range(len(nums)):
-            count[nums[i]] -= 1
-            if i > 0 and nums[i] == nums[i - 1]:
-                continue
-
             for j in range(i + 1, len(nums)):
-                count[nums[j]] -= 1
-                if j > i + 1 and nums[j] == nums[j - 1]:
-                    continue
-
                 for k in range(j + 1, len(nums)):
-                    count[nums[k]] -= 1
-                    if k > j + 1 and nums[k] == nums[k - 1]:
-                        continue
+                    diff = target - (nums[i] + nums[j] + nums[k])
 
-                    fourth = target - (nums[i] + nums[j] + nums[k])
-                    if count[fourth] > 0:
-                        res.append([nums[i], nums[j], nums[k], fourth])
+                    if diff in event_horizon:
+                        list_repr = [diff, nums[i], nums[j], nums[k]]
+                        list_repr.sort()
+                        tuple_repr = tuple(list_repr)
+                        output.add(tuple_repr)
 
-                for k in range(j + 1, len(nums)):
-                    count[nums[k]] += 1
+            event_horizon.add(nums[i])
 
-            for j in range(i + 1, len(nums)):
-                count[nums[j]] += 1
+        return [list(o) for o in output]
 
-        return res
