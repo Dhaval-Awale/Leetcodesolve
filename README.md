@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0018-4sum/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0018-4sum/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0018-4sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
