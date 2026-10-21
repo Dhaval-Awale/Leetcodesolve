@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Linked List
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Trie
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0022-generate-parentheses/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,4 +148,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
