@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
