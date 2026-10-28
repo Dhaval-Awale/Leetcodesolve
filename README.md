@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0027-remove-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0027-remove-element/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
