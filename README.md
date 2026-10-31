@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0029-divide-two-integers/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0836-rectangle-overlap/) | Easy |
 | [1952-three-divisors](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/1952-three-divisors/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -189,4 +190,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
