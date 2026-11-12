@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0036-valid-sudoku/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0036-valid-sudoku](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0036-valid-sudoku/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,4 +211,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0029-divide-two-integers/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
