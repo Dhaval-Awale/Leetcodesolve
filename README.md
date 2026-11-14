@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0036-valid-sudoku](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0037-sudoku-solver/) | Hard |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/3443-maximum-manhattan-distance-after-k-changes/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0029-divide-two-integers/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0836-rectangle-overlap/) | Easy |
 | [1952-three-divisors](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/1952-three-divisors/) | Easy |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/3443-maximum-manhattan-distance-after-k-changes/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/3443-maximum-manhattan-distance-after-k-changes/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0037-sudoku-solver/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/3443-maximum-manhattan-distance-after-k-changes/) | Medium |
 <!---LeetCode Topics End-->
