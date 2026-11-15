@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0038-count-and-say](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0038-count-and-say/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/3443-maximum-manhattan-distance-after-k-changes/) | Medium |
