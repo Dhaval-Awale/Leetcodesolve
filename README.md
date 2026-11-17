@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0039-combination-sum/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0039-combination-sum/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
