@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0041-first-missing-positive/) | Hard |
 | [1929-concatenation-of-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0036-valid-sudoku](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0037-sudoku-solver/) | Hard |
+| [0041-first-missing-positive](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/0041-first-missing-positive/) | Hard |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Dhaval-Awale/Leetcodesolve/tree/main/3443-maximum-manhattan-distance-after-k-changes/) | Medium |
 ## Math
 | Problem Name | Difficulty |
